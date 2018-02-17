@@ -1,0 +1,14 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6500 64-bit) (preloaded format=pdftex 2018.2.2)  2 FEB 2018 19:01
+entering extended mode
+**"C:/Users/ArmandoSilva/Box Sync/Computer/Desktop/Two-column CV/tccv.cls"
+("C:/Users/ArmandoSilva/Box Sync/Computer/Desktop/Two-column CV/tccv.cls"
+! Undefined control sequence.
+l.25 \NeedsTeXFormat
+                    {LaTeX2e}
+? 
+! Emergency stop.
+l.25 \NeedsTeXFormat
+                    {LaTeX2e}
+End of file on the terminal!
+
+!  ==> Fatal error occurred, no output PDF file produced!
